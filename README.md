@@ -94,7 +94,7 @@ This project was developed collaboratively with a team of 4 members.
 
 ## Prototype
 
-🔗 [View Figma Prototype](https://delete-jade-63693468.figma.site/](https://delete-jade-63693468.figma.site/ )
+🔗 [View Figma Prototype](https://delete-jade-63693468.figma.site/)
 
 ---
 

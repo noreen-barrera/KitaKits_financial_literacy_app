@@ -94,7 +94,7 @@ This project was developed as a solo requirement for Data Visualization.
 
 ## Prototype
 
-🔗 [View Data Analytics Report PDF](./sales-analytics-report.pdf)
+🔗 [View Dashboard Video Demo](https://drive.google.com/file/d/1IRBeojImHj-iJxFRKuyuL35YWlDHgtsN/view?usp=sharing)
 
 ---
 
